@@ -1,0 +1,5 @@
+cs68/
+result.csv
+training_data.jsonl
+validation_data.jsonl
+.ipynb_checkpoints
